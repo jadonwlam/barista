@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+barista/__init__.py
+barista.egg-info/PKG-INFO
+barista.egg-info/SOURCES.txt
+barista.egg-info/dependency_links.txt
+barista.egg-info/requires.txt
+barista.egg-info/top_level.txt

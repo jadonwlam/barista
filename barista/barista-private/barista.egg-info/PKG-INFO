@@ -1,0 +1,26 @@
+Metadata-Version: 2.4
+Name: barista
+Version: 1.0.0
+Summary: A Python package for a 
+Author-email: Ann-Kathrin Schuetz <annkaschue@gmail.com>
+License: MIT
+Project-URL: Homepage, https://github.com/yourusername/barista
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Requires-Dist: numpy
+Requires-Dist: torch
+Requires-Dist: matplotlib
+Requires-Dist: pyyaml
+Requires-Dist: ipywidgets
+Requires-Dist: pandas
+Requires-Dist: tqdm
+Requires-Dist: dask[dataframe]
+Requires-Dist: imbalanced-learn==0.8.1
+Requires-Dist: termcolor
+Requires-Dist: scipy
+Requires-Dist: GPy
+Requires-Dist: emukit
+Requires-Dist: backports.tarfile
+Requires-Dist: pymc

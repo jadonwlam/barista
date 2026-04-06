@@ -1,0 +1,15 @@
+numpy
+torch
+matplotlib
+pyyaml
+ipywidgets
+pandas
+tqdm
+dask[dataframe]
+imbalanced-learn==0.8.1
+termcolor
+scipy
+GPy
+emukit
+backports.tarfile
+pymc
